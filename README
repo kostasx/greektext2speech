@@ -1,4 +1,4 @@
-Python script to convert greek text to speech, using the acapela online service.
+Python script to convert greek text to speech, using the acapela online service. Tested on Mac OS X & Ubuntu Linux 12.04.
 
 Usage: 
 $ python acapela.py
@@ -9,3 +9,8 @@ Enter greek phrase to be converted to speech:
 Now play the file:
 
 $ mpg123 voice.mp3
+
+Requirements:
+
+Feedparser	(Python Module)
+(Ubuntu Linux => sudo apt-get install python-feedparser)
