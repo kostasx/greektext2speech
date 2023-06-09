@@ -4,10 +4,11 @@ Python script to convert greek text to speech, using the acapela online service.
 
 Usage: 
 
-`$ python acapela.py`
+```$ python acapela.py
 Enter greek phrase to be converted to speech:
 (File will be downloaded and saved to current directory as 'voice.mp3')
 <ENTER PHRASE HERE>
+```
 
 Now play the file:
 
