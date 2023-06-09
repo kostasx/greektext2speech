@@ -1,6 +1,6 @@
 Python script to convert greek text to speech, using the acapela online service. Tested on Mac OS X & Ubuntu Linux 12.04.
 
-**Update: a new script that works with Python3 (`acapely.python3.py`) has been tested and uploaded.**
+**Update (2023): a new script that works with Python3 (`acapely.python3.py`) has been tested and uploaded.**
 
 Usage: 
 
