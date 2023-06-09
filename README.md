@@ -10,7 +10,7 @@ Enter greek phrase to be converted to speech:
 
 Now play the file:
 
-$ mpg123 voice.mp3
+`$ mpg123 voice.mp3`
 
 Requirements:
 
